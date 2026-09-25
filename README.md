@@ -53,3 +53,18 @@ Finding vehicles using granular technical parameters (engine displacement, fuel 
 │   └── Organization.js
 ├── README.md
 └── package.json
+
+git clone [https://github.com/ShyamR0619/vehicle-performance-analysis.git](https://github.com/ShyamR0619/vehicle-performance-analysis.git)
+cd vehicle-performance-analysis
+
+npm install
+
+npm start
+
+👥 Project Team
+
+Harika Y (20211COM0001)
+Shyam R (20211COM0018)
+Samuel R (20211COM0037)
+Praveen Kumar G S (20211COM0038)
+Guided by: Dr. Sukruth Gowda M A, Department of Computer Engineering, Presidency University, Bengaluru.
